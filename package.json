@@ -1,0 +1,12 @@
+{
+  "name": "dk.cec.autostorelocalpackageversions",
+  "version": "0.0.1",
+  "displayName": "Auto Store Local Package Versions",
+  "description": "Because manifest.json does not contain versioning for local packages.",
+  "author": {
+    "name": "Carl Emil Carlsen",
+    "url": "https://cec.dk"
+  },
+  "unity": "2023.2",
+  "type": "code"
+}

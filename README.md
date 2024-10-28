@@ -1,7 +1,7 @@
 
 # Auto Store Local Package Versions
 
-Unity's Packages/manifest.json does not contain versioning for local packages. In the case of projects that use multiple local packages each belonging to seperate repos, that are also updated outside the project, it is crucial to keep track their versions. When this package is present in your project it will store a list of local packages versions in use in *Packages/localpackageversions.json*.
+Unity's *Packages/manifest.json* does not contain versioning for local packages. In the case of projects that use multiple local packages each belonging to seperate repos, that are also updated outside the project, it is crucial to keep track their versions. When this package is present in your project it will store a list of local packages versions in use in *Packages/localpackageversions.json*.
 
 ## Installation
 
